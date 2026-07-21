@@ -1,4 +1,4 @@
-# while
+# Info
 
 > Lua and C++ enjoyer from Kyiv, Ukraine. Learning by building things.
 
