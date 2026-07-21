@@ -25,6 +25,7 @@ Lua  •  C++  •  Node.js  •  Python
 
 ## Projects
 
+- Antigravity Limit Checker, just a checker and thats all :P
 - More projects are coming as I learn and build
 
 ## Find me
