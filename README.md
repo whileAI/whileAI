@@ -8,7 +8,6 @@
 - I enjoy Lua, C++, Node.js, and Python
 - I use Debian as my daily development environment
 - I like lightweight tools and terminal-based workflows
-- I plan to build **Zirka**, a personal fork of the Micro editor
 
 ## Current focus
 
@@ -26,7 +25,6 @@ Lua  •  C++  •  Node.js  •  Python
 
 ## Projects
 
-- **Zirka** — a future lightweight code editor based on Micro
 - More projects are coming as I learn and build
 
 ## Find me
