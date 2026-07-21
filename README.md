@@ -1,27 +1,33 @@
 # while
 
-> Debian user, Lua enjoyer, and aspiring developer from Kyiv, Ukraine.
+> Lua and C++ enjoyer from Kyiv, Ukraine. Learning by building things.
 
 ## About me
 
-- I build Roblox projects and learn programming every day.
-- I like Lua, Luau, C++, JavaScript, and Linux.
-- My favorite tools are Debian, Zsh, Micro, Kitty, and Git.
-- I am working on **Flux**, my future fork of the Micro editor.
+- I am interested in software development and open source.
+- I enjoy Lua, C++, Node.js, and Python.
+- I use Debian as my daily development environment.
+- I like lightweight tools and terminal-based workflows.
+- I plan to build **Flux**, a personal fork of the Micro editor.
 
 ## Current focus
 
 ```text
-Roblox development  •  Lua / Luau  •  C++
+Lua  •  C++  •  Node.js  •  Python
 ```
 
-## Tools I use
+## Languages and tools
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E1E2E?style=for-the-badge&logo=javascript&logoColor=F9E2AF)
-![Git](https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F38BA8)
+![Node.js](https://img.shields.io/badge/Node.js-1E1E2E?style=for-the-badge&logo=nodedotjs&logoColor=A6E3A1)
+![Python](https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=F9E2AF)
+
+## Projects
+
+- **Flux** — a future lightweight code editor based on Micro.
+- More projects are coming as I learn and build.
 
 ## Find me
 
