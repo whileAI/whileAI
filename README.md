@@ -31,7 +31,7 @@ Lua  •  C++  •  Node.js  •  Python
 
 ## Projects
 
-- **Antigravity Limit Checker** a small tool for checking Antigravity usage limits
+- **Antigravity Limit Checker** - a small tool for checking Antigravity usage limits
 - More tools, experiments, and learning projects are on the way
 
 ## Find me
