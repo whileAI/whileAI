@@ -32,7 +32,7 @@ Lua  •  C++  •  Node.js  •  Python
 ## Projects
 
 - **[Love Raycaster](https://github.com/whileAI/love-raycaster)** — a small first-person raycasting demo made with LÖVE2D
-- **Antigravity Limit Checker** — a small tool for checking Antigravity usage limits
+- **[Antigravity Limit Checker](https://github.com/whileAI/antigravity-limit-checker)** — a small tool for checking Antigravity usage limits
 - More tools, experiments, and learning projects are on the way
 
 ## Find me
