@@ -1,46 +1,37 @@
-# Hey, I'm while
+## Hey, I'm while
 
-> A Lua and C++ enthusiast learning by building things.
+> creit prozhect 333 larp
 
-## About me
+I write software in Lua, Node.js, Python, and a little Java
 
-- Developer from Kyiv, Ukraine
-- Interested in software development, open source, and how things work under the hood
-- I enjoy writing Lua, C++, Node.js, Python and a little Java
-- I like learning through small projects, experiments, and practical ideas
+Interested in open source, small projects, and figuring out how things work under the hood.
 
-## What I'm learning
-
-- Building small tools and experiments with Lua and C++
-- Writing cleaner code and understanding project structure
-- Exploring new ideas and turning them into projects
-
-## Current focus
+### Current focus
 
 ```text
-Lua  •  C++  •  Node.js  •  Python  •  Java
+Lua  •  Node.js  •  Python  •  Java
 ```
+<sup>still learning btw</sup>
 
-## Languages and tools
+### Languages and tools
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-1E1E2E?style=for-the-badge&logo=nodedotjs&logoColor=A6E3A1)
 ![Python](https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=F9E2AF)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## Projects
+### Projects
 
 - **[Love Raycaster](https://github.com/whileAI/love-raycaster)** — a small first-person raycasting demo made with LÖVE2D
 - **[Antigravity Limit Checker](https://github.com/whileAI/antigravity-limit-checker)** — a small tool for checking Antigravity usage limits
 - More tools, experiments, and learning projects are on the way
 
-## Find me
+### Find me
 
-- Website: Soon...
+- Website: https://while-portfolio.online/
 
 ```text
-sudo apt install creativity
+sudo apt install opsec 🥶🥶🥶
 ```
