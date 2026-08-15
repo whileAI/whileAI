@@ -6,7 +6,7 @@
 
 - Developer from Kyiv, Ukraine
 - Interested in software development, open source, and how things work under the hood
-- I enjoy writing Lua, C++, Node.js, and Python
+- I enjoy writing Lua, C++, Node.js, Python and a little Java
 - I like learning through small projects, experiments, and practical ideas
 
 ## What I'm learning
@@ -18,7 +18,7 @@
 ## Current focus
 
 ```text
-Lua  •  C++  •  Node.js  •  Python
+Lua  •  C++  •  Node.js  •  Python  •  Java
 ```
 
 ## Languages and tools
@@ -28,6 +28,8 @@ Lua  •  C++  •  Node.js  •  Python
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-1E1E2E?style=for-the-badge&logo=nodedotjs&logoColor=A6E3A1)
 ![Python](https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=F9E2AF)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## Projects
 
