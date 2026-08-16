@@ -24,9 +24,9 @@ Lua  •  Node.js  •  Python  •  Java
 
 ### Projects
 
-- **[EyEye Client](https://github.com/whileAI/eyeye-client)** — a custom Fabric client for Minecraft, built with Java
 - **[Love Raycaster](https://github.com/whileAI/love-raycaster)** — a small first-person raycasting demo made with LÖVE2D
 - **[Antigravity Limit Checker](https://github.com/whileAI/antigravity-limit-checker)** — a small tool for checking Antigravity usage limits
+- - **[EyEye Client](https://github.com/whileAI/eyeye-client)** — a custom Fabric client for Minecraft, built with Java
 - More tools, experiments, and learning projects are on the way
 
 ### Find me
