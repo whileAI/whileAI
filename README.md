@@ -4,7 +4,7 @@
 
 I write software in Lua, Node.js, Python, and a little Java
 
-Interested in open source, small projects, and figuring out how things work under the hood.
+Interested in open source, small projects, Minecraft client development, and figuring out how things work under the hood.
 
 ### Current focus
 
@@ -24,6 +24,7 @@ Lua  •  Node.js  •  Python  •  Java
 
 ### Projects
 
+- **[EyEye Client](https://github.com/whileAI/eyeye-client)** — a custom Fabric client for Minecraft, built with Java
 - **[Love Raycaster](https://github.com/whileAI/love-raycaster)** — a small first-person raycasting demo made with LÖVE2D
 - **[Antigravity Limit Checker](https://github.com/whileAI/antigravity-limit-checker)** — a small tool for checking Antigravity usage limits
 - More tools, experiments, and learning projects are on the way
