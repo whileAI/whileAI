@@ -31,7 +31,7 @@ status      learning
 
 I write software, mess with open source projects and like figuring out how things work under the hood.
 
-Mostly interested in Linux, Minecraft client development, small tools and random experiments.
+Mostly interested in Linux, small tools and random experiments.
 
 ## ~/dev
 
