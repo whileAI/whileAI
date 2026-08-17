@@ -54,30 +54,6 @@ dev
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 
-## ~/projects
-
-```console id="i6v4cl"
-while@while-pc:~$ tree projects
-
-projects
-├── love-raycaster
-│   └── first-person raycasting experiment built with LÖVE2D
-├── antigravity-limit-checker
-│   └── utility for checking Antigravity usage limits
-└── eyeye-client
-    └── Meteor Client fork and Minecraft client playground
-```
-
-```console id="7f22yf"
-while@while-pc:~$ ls -la projects
-
-love-raycaster             -> github.com/whileAI/love-raycaster
-antigravity-limit-checker  -> github.com/whileAI/antigravity-limit-checker
-eyeye-client               -> github.com/whileAI/eyeye-client
-```
-
-[love-raycaster](https://github.com/whileAI/love-raycaster) · [antigravity-limit-checker](https://github.com/whileAI/antigravity-limit-checker) · [eyeye-client](https://github.com/whileAI/eyeye-client)
-
 ## ~/links
 
 ```console id="dvdd2x"
