@@ -53,19 +53,3 @@ dev
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-
-## ~/links
-
-```console id="dvdd2x"
-while@while-pc:~$ ls -l links
-
-website -> while-portfolio.online
-```
-
-[website](https://while-portfolio.online/)
-
----
-
-```console id="zsc77k"
-while@while-pc:~$ _
-```
