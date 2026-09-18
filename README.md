@@ -7,7 +7,7 @@ most of what I do starts as an experiment - small tools, game-related stuff, ope
 | now                    | usually working with             | interested in      |
 | ---------------------- | -------------------------------- | ------------------ |
 | learning Java          | Lua · Python · Node.js           | game development   |
-| learning Docker        | Git · Docker · Windows           | open source        |
+| learning Docker        | Git · Docker · Linux             | open source        |
 | building random stuff  | IntelliJ IDEA · VS Code          | software internals |
 
 ## tools
